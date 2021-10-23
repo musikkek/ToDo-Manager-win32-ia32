@@ -14,7 +14,7 @@ Pobierz kod, później wypakuj go w jakimkolwiek folderze. Po zrobienu tego otw�
 
 
 
-
+EN
 Download code, then unpack it in any folder. After this open folder /versions/ and open on folder with your system version (win32-ai32 and win64-ai64), after opening these folders, there is file named /ToDo Manager.exe/. Open this and enjoy :)
 
 ! You cannot bring .exe  file out of this folder, but you can create shortcut that can be out of these folders !
